@@ -1,9 +1,14 @@
 # JobSchedulerBackend
-A microservice based backend to schedule jobs based on their priority.
+
+_A microservice based backend to schedule jobs based on their priority.Task Scheduling Service that ingests tasks from various microservices and then schedules their execution._
 
 
-_The workflow_
-![Web app](https://freeimage.host/i/HnWo8Sp)
+__The workflow__
+
+---
+
+
+[![HnWo8Sp.md.png](https://iili.io/HnWo8Sp.md.png)](https://freeimage.host/i/HnWo8Sp)
 
 ***
 ## Things required to run
