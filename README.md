@@ -3,7 +3,7 @@ A microservice based backend to schedule jobs based on their priority.
 
 
 _The workflow_
-![Web app](https://ibb.co/KF4pvz0)
+![Web app](https://freeimage.host/i/HnWo8Sp)
 
 ***
 ## Things required to run
